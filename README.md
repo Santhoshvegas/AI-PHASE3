@@ -1,12 +1,12 @@
 # AI-PHASE3
 
-# Market Basket Analysis (https://blog.rsquaredacademy.com/img/cover_image.jpg)
+# Market Basket Analysis  
 
 ## Overview
 
 Market Basket Analysis is a data mining technique used to discover associations and patterns in customer purchase behavior. This project provides a Python implementation of Market Basket Analysis and includes sample data and Jupyter notebooks for analysis and visualization.
 
-![Market Basket Analysis](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.centrycs.com%2Fsolutions%2Fmarket-basket-analysis%2F&psig=AOvVaw2fEIGz0bajn-Vi-0b8E1M_&ust=1697257299561000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi2laeW8oEDFQAAAAAdAAAAABAJ)
+![Market Basket Analysis](https://blog.rsquaredacademy.com/img/cover_image.jpg)
 
 ## Table of Contents
 
