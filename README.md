@@ -1,7 +1,6 @@
 # AI-PHASE3
- Creating a README for a Market Basket Analysis project on GitHub is essential for providing an informative and user-friendly introduction to your project. A well-structured README helps potential collaborators, users, and contributors understand the purpose and usage of your project. Below is a template for a Market Basket Analysis README:
 
-# Market Basket Analysis
+# Market Basket Analysis (https://blog.rsquaredacademy.com/img/cover_image.jpg)
 
 ## Overview
 
